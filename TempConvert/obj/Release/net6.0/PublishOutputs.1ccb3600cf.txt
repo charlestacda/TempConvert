@@ -1,0 +1,5 @@
+C:\Users\EOUser\source\repos\TempConvert\TempConvert\bin\publish\TempConvert.exe
+C:\Users\EOUser\source\repos\TempConvert\TempConvert\bin\publish\TempConvert.dll
+C:\Users\EOUser\source\repos\TempConvert\TempConvert\bin\publish\TempConvert.deps.json
+C:\Users\EOUser\source\repos\TempConvert\TempConvert\bin\publish\TempConvert.runtimeconfig.json
+C:\Users\EOUser\source\repos\TempConvert\TempConvert\bin\publish\TempConvert.pdb
